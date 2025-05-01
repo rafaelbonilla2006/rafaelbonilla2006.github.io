@@ -3,7 +3,11 @@
 
 Hello World! My name is Rafael Bonilla and I am Computer Engineering major at Cal State Fullerton [http://www.fullerton.edu/] and plan to graduate in 2028.
 
-## Favorite CPSC-120L Labs
+## Computer Science Projects
+
+My GitHub page is https://github.com/rafaelbonilla2006
+
+### Favorite CPSC-120L Labs
 
 * Lab 1
 
