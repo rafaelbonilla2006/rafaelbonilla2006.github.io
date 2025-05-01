@@ -1,11 +1,11 @@
 
 # Rafael Bonilla's Portfolio
 
-I am Computer Engineering major at CSUF and plan ot gradute in 2028.
+I am Computer Engineering major at CSUF and plan to graduate in 2028.
 
 ## Favorite CPSC-120L Labs
 
-Lab 1:
+Lab 1
 In Lab 1, I was introduced into the world of software for the first time. It helped me understand the bare basics of C++ and how to navigate across a linux based device, the terminal, github, and VS Code as well. I learned how to code the words “Hello World!” to be displayed on the terminal.
 
 Lab 4:
